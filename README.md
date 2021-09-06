@@ -1,6 +1,7 @@
 # Inventory_Management_System
 This project is based on Inventory Management System.
 It consist of three files, one is the program file and another two are Inventory record and Sales Record. 
+
 Discription:
 It consist of two modes
 One is for ADMIN and another one is for CUSTOMER.
@@ -19,3 +20,5 @@ In Creation mode, you can create a whole new product in the inventory.
 in Look mode, you can simply look at the whole Inventory.
 
 Used Modules: json and Time
+
+How to start: You can run this program in Jupyter Notebook.
